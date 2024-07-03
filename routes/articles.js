@@ -12,4 +12,10 @@ router.get('/', async (req, res) => {
     }
 });
 
+router.get('/:id', async (req, res) => {
+    const articleId = req.params.id;
+    const article = await db.oneOrNone('SELECT * FROM articles WHERE id = $1', [articleId]);
+    res.json(article);
+});
+
 module.exports = router;
