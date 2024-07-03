@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Cleaning 101",
+    "tagline": "Never mix cleaning products. This may cause harmful gases",
+    "summary": [
+      "Wash your hands with soap and running water after playing with or petting your pet.",
+      "Wear gloves and long sleeves if you must handle animals with ringworm, and always wash your hands after handling the animal.",
+      "Vacuum the areas of the home that the infected pet commonly visits. This will help to remove infected fur or flakes of skin.",
+      "Disinfect areas the pet has spent time in, including surfaces and bedding.",
+      "The spores of this fungus can be killed with common disinfectants like diluted chlorine bleach (1/4 c per gallon water), benzalkonium chloride, or strong detergents.",
+      "Never mix cleaning products. This may cause harmful gases.",
+      "Do not handle animals with ringworm if your immune system is weak in any way (if you have HIV/AIDS, are undergoing cancer treatment, or are taking medications that suppress the immune system, for example)."
+    ],
+    "category": "cleaning"
+  },
+  {
+    "id": 2,
+    "title": "Treatment for Ringworm",
+    "tagline": "There are many non-prescription products available to treat ringworm.",
+    "summary": [
+      "The treatment for ringworm depends on its location on the body and how serious the infection is.",
+      "Some forms of ringworm can be treated with non-prescription (“over-the-counter”) medications,",
+      "but other forms of ringworm need treatment with prescription antifungal medication."
+    ],
+    "category": "medical"
+  }
+]
